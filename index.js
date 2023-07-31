@@ -51,11 +51,11 @@ app.use("/api/posts", postRoutes);
 app.use("/api/comments", commentRoutes);
 app.use("/api/likes", likeRoutes);
 app.use("/api/relationships", relationshipRoutes);
-app.use(express.static(path.join(__dirname,'../client/build')))
+app.use(express.static(path.join(__dirname,'./client/build')))
 
 
 app.use("*", function(req,res){
-  res.sendFile(path.join(__dirname,"../client/build/index.html"))
+  res.sendFile(path.join(__dirname,"./client/build/index.html"))
 });
 
 app.listen(8800, () => {

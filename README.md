@@ -1,4 +1,6 @@
 # SocialHub
+![Screenshot (494)](https://github.com/yash358/SocialHub/assets/93638045/30b37fab-94b2-44d5-b778-abfde8bfb9dc)
+![Screenshot (495)](https://github.com/yash358/SocialHub/assets/93638045/738cf6d4-b85b-4d66-9b34-b31f66ce133c)
 
 
 <h1 align="center">Hi 👋, I'm Yash Mittal</h1>
